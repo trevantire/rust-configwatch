@@ -127,3 +127,5 @@ pub struct ConfigUpdate {
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+<!-- history: 2026-05-17 -->
