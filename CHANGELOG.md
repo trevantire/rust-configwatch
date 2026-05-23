@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-23
+
+- feat: basic config merging functionality
+
 ## 2026-05-21
 
 - wip: file watching module skeleton
