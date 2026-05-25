@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-25
+
+- feat: improve debounce logic handling
+
 ## 2026-05-23
 
 - feat: basic config merging functionality
