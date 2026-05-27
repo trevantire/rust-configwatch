@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-27
+
+- feat: add change notification support
+
 ## 2026-05-25
 
 - feat: improve debounce logic handling
