@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-05-29
+
+- feat: error handling for change notification
+
 ## 2026-05-28
 
 - feat: error handling for file watching

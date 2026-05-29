@@ -133,3 +133,5 @@ MIT — see [LICENSE](LICENSE).
 <!-- history: 2026-05-21 -->
 
 <!-- history: 2026-05-23 -->
+
+<!-- history: 2026-05-29 -->
