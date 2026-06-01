@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-01
+
+- refactor: restructure file watching module
+
 ## 2026-05-29
 
 - feat: error handling for change notification
