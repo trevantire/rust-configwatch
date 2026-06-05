@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-05
+
+- fix: handle edge case in env source
+
 ## 2026-06-04
 
 - test: add integration tests
