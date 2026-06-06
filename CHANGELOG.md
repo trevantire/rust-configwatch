@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 2026-06-06
+
+- chore: add CI configuration
+
 ## 2026-06-05
 
 - fix: handle edge case in env source
