@@ -1,0 +1,24 @@
+[package]
+name = "configwatch"
+version = "0.1.0"
+edition = "2021"
+authors = ["trevantire"]
+description = "File and environment config watcher with hot-reload for Rust apps"
+license = "MIT"
+repository = "https://github.com/trevantire/rust-configwatch"
+keywords = ["config", "watch", "hot-reload", "configuration", "file-watcher"]
+categories = ["config", "filesystem"]
+
+[dependencies]
+notify = "6.1"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.8"
+thiserror = "1.0"
+log = "0.4"
+parking_lot = "0.12"
+crossbeam-channel = "0.5"
+
+[dev-dependencies]
+tempfile = "3.10"
+env_logger = "0.11"
